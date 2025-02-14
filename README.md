@@ -1,6 +1,6 @@
 # Memory modelling using behavioral data from an odor naming memory task. 
 
-The full document is currently undergoing a screening process and will available on bioRxiv within 48 hours. I will provide the link here.
+The full document is available on bioRxiv at following link: https://doi.org/10.1101/2025.02.13.637907
 
 Title: Elusive scents: neurocomputational mechanisms  of verbal omissions in free odor naming 
 
